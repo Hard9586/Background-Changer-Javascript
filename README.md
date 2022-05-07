@@ -3,7 +3,7 @@ Normal Background-color changer app using javascript with random function used o
 
 Features is👉 When you click the button the background color will change randomly
 
-If you have any doubts just email me on this email id 👉 hardmoridhra2203@gmail.com or msg me on this number 👉9586410631
+If you have any doubts just email me on this email id 👉 hardmoridhra2203@gmail.com or msg me on this number 👉+919586410631
 
 You can also change the code as you know
 
