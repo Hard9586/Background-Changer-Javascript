@@ -5,7 +5,9 @@ Features is👉 When you click the button the background color will change rando
 
 If you have any doubts just email me on this email id 👉 hardmoridhra2203@gmail.com or msg me on this number 👉+919586410631
 
-You can also change the code as you know
+You can also change the code after download all the files
+
+I have also given some screenshots of this project
 
 If you find any bug in this project just report me
 
